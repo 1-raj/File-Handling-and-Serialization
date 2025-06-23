@@ -1,0 +1,26 @@
+id,name,department,salary
+1,Raj Sharma,IT,55000
+2,Aman Patel,HR,48000
+3,Neha Verma,Finance,62000
+4,Vikram Mehta,IT,58000
+5,Anjali Singh,Sales,47000
+6,Krishna Das,Marketing,51000
+7,Meena Rao,HR,49000
+8,Suresh Yadav,IT,56000
+9,Kavita Joshi,Finance,63000
+10,Ankit Rana,Sales,46000
+11,Divya Kaul,Marketing,52000
+12,Sahil Bansal,IT,57000
+13,Priyanka Nair,HR,50000
+14,Ravi Mishra,Finance,61000
+15,Simran Gill,Sales,45000
+16,Nikhil Dubey,Marketing,53000
+17,Preeti Kaur,IT,59000
+18,Deepak Rawat,HR,49500
+19,Swati Saxena,Finance,64000
+20,Manoj Jain,Sales,44000
+21,Isha Kulkarni,Marketing,51500
+22,Yogesh Tyagi,IT,60000
+23,Ritika Sharma,HR,50500
+24,Aryan Malik,Finance,62500
+25,Sonali Tiwari,Sales,45500
