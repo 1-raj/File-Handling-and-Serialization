@@ -46,8 +46,6 @@ Invalid lines or bad data formats are ignored with a warning.
 
 ## 🖥️ How to Run
 
-### 🔹 Step 1: Compile the program
-
 ```bash
 javac EmployeeSerializationCLI.java
 java EmployeeSerializationCLI
